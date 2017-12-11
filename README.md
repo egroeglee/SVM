@@ -4,17 +4,20 @@
 ![image](https://github.com/egroeglee/pictures/blob/master/SVM/1.png)
 
 範例: 與Logistic regression相同
+
 ![image](https://github.com/egroeglee/pictures/blob/master/SVM/2.png)
 
 Confusion Matrix:
 ![image](https://github.com/egroeglee/pictures/blob/master/SVM/3.png)
 
 	與logistic Regression的相差不大
+
+Output: 用SVM(Linear)來畫線
+
 ![image](https://github.com/egroeglee/pictures/blob/master/SVM/4.png)
-	Output: 用SVM(Linear)來畫線
 	 
 
-Kernel SVM 曲線平滑劃分
+# Kernel SVM 曲線平滑劃分
 
 前言:當資料無法用簡單的線性來分類時(分線性可分)，可以用K-SVM來處理。
 ![image](https://github.com/egroeglee/pictures/blob/master/SVM/5.png)
